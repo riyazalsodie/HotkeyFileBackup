@@ -319,7 +319,8 @@ If you find this project useful, please consider giving it a star! ⭐
 
 <div align="center">
 
-**Made with ❤️ by [R ! Y 4 Z]**
+**Made with ❤️ by R ! Y 4 Z**
 
 
 </div>
+
